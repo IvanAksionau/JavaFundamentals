@@ -1,8 +1,7 @@
-package Solution4;
+package solution4;
 
 import org.junit.Before;
 import org.junit.Test;
-import solution4.ListForSimpleNum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Solution2.positiveTest;
+package solution2.positiveTest;
 
 import org.junit.Assert;
 import org.junit.Test;

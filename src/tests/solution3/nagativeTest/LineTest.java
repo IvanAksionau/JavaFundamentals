@@ -1,4 +1,4 @@
-package Solution3.nagativeTest;
+package solution3.nagativeTest;
 
 import org.junit.Test;
 import solution3.Line;

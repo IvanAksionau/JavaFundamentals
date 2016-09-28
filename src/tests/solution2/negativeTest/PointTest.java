@@ -1,4 +1,4 @@
-package Solution2.negativeTest;
+package solution2.negativeTest;
 
 import org.junit.Assert;
 import org.junit.Test;

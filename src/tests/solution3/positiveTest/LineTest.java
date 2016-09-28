@@ -1,4 +1,4 @@
-package Solution3.positiveTest;
+package solution3.positiveTest;
 
 import org.junit.After;
 import org.junit.Before;
